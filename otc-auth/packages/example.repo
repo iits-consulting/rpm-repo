@@ -1,6 +1,0 @@
-[example-repo]
-name=Example Repo
-baseurl=http://iits-consulting.github.io/rpm-repo/packages
-enabled=1
-gpgcheck=1
-gpgkey=http://iits-consulting.github.io/rpm-repo/KEY.gpg

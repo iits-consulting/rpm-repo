@@ -1,0 +1,6 @@
+[otc-auth_rpm]
+name=otc-auth RPM repo
+baseurl=http://iits-consulting.github.io/rpm-repo/packages
+enabled=1
+gpgcheck=1
+gpgkey=http://iits-consulting.github.io/rpm-repo/KEY.gpg
