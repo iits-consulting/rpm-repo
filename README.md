@@ -1,4 +1,4 @@
- # <img src='https://iits-consulting.de/wp-content/uploads/2021/08/iits-logo-2021-red-square-xl.png' width=150/> otc-auth RPM Repo 
+ # <img src='https://github.com/iits-consulting/otc-auth/blob/main/static/images/iits-2024.svg' width=150/> otc-auth RPM Repo 
  This repo contains .rpm files built from the [latest version of otc-auth](https://github.com/iits-consulting/otc-auth/releases).
 
  ## Usage 
